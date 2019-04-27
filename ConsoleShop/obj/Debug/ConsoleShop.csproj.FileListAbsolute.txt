@@ -1,0 +1,13 @@
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\bin\Debug\ConsoleShop.exe.config
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\bin\Debug\ConsoleShop.exe
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\bin\Debug\ConsoleShop.pdb
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\bin\Debug\EntityFramework.dll
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\bin\Debug\EntityFramework.xml
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\obj\Debug\ConsoleShop.csprojAssemblyReference.cache
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\obj\Debug\ConsoleShop.csproj.CoreCompileInputs.cache
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\obj\Debug\ConsoleShop.csproj.CopyComplete
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\obj\Debug\ConsoleShop.exe
+c:\users\тынышбаева\source\repos\ConsoleShop\ConsoleShop\obj\Debug\ConsoleShop.pdb
